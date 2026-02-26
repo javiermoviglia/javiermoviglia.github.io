@@ -6,7 +6,7 @@ subtitle: PhD Researcher at Your University
 
 profile:
   align: right
-  image: mi_foto.jpg
+  image: mi_foto.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
