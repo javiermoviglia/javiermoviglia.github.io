@@ -3,8 +3,49 @@
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
       {% if site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% social_links %}</div>
+        <div class="navbar-brand social d-flex align-items-center" aria-label="social links">
+          {% if site.data.socials.email %}
+            <a href="mailto:{{ site.data.socials.email }}" title="email" aria-label="email" class="mx-2">
+              <i class="fa-solid fa-envelope"></i>
+            </a>
+          {% endif %}
+          {% if site.data.socials.orcid_id %}
+            <a
+              href="https://orcid.org/{{ site.data.socials.orcid_id }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="ORCID"
+              aria-label="ORCID"
+              class="mx-2"
+            >
+              <i class="ai ai-orcid"></i>
+            </a>
+          {% endif %}
+          {% if site.data.socials.scholar_userid %}
+            <a
+              href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Google Scholar"
+              aria-label="Google Scholar"
+              class="mx-2"
+            >
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          {% endif %}
+          {% if site.data.socials.linkedin_username %}
+            <a
+              href="https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="LinkedIn"
+              aria-label="LinkedIn"
+              class="mx-2"
+            >
+              <i class="fa-brands fa-linkedin"></i>
+            </a>
+          {% endif %}
+        </div>
       {% else %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
@@ -50,10 +91,10 @@
             </a>
           </li>
 
-          <!-- Publications -->
+          <!-- Portfolio -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/#publications' | relative_url }}">
-              Publications
+            <a class="nav-link" href="{{ '/#portfolio' | relative_url }}">
+              Portfolio
               {% if page.permalink == '/' %}<span class="sr-only">(current)</span>{% endif %}
             </a>
           </li>
