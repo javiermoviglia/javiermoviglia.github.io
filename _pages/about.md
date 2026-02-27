@@ -211,13 +211,13 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1559757175-7cb057fba93f?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Ariadne control strategy" loading="lazy">
+            <img src="/assets/img/catheter_guido.png" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Ariadne control strategy" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h4 class="card-title">Ensemble Kalman inversion for image guided guide wire navigation in vascular systems</h4>
               <p class="card-text">Hanu, M., Hesser, J., Kanschat, G. et al. Ensemble Kalman inversion for image guided guide wire navigation in vascular systems. J.Math.Industry 14, 21 (2024).</p>
-              <p class="card-text">This paper proposes the use of a technique called Ensemble Kalman Inversion (EKI) with subsampling to estimate unknown parameters, such as density and elasticity, of a guide wire used in cardiovascular interventions. The goal is to replicate high-resolution images of the wire using a physical model based on Cosserat rods. Since images generate large volumes of data, the standard method becomes computationally expensive, so the authors introduce a subsampling approach that processes only parts of the image in each iteration. Experiments with real data show that this variant achieves similar accuracy to the full method, but at a much lower cost, paving the way for more efficient and safer control of the guide wire in real procedures. <strong>Contribution:</strong></p> development of the experimental setup</p>
+              <p class="card-text">This paper proposes the use of a technique called Ensemble Kalman Inversion (EKI) with subsampling to estimate unknown parameters, such as density and elasticity, of a guide wire used in cardiovascular interventions. The goal is to replicate high-resolution images of the wire using a physical model based on Cosserat rods. Since images generate large volumes of data, the standard method becomes computationally expensive, so the authors introduce a subsampling approach that processes only parts of the image in each iteration. Experiments with real data show that this variant achieves similar accuracy to the full method, but at a much lower cost, paving the way for more efficient and safer control of the guide wire in real procedures. <strong>Contribution:</strong> development of the experimental setup</p>
               <p>
                 <a class="btn btn-sm btn-outline-primary" href="https://link.springer.com/article/10.1186/s13362-024-00159-4#citeas" target="_blank" rel="noopener noreferrer">Paper</a>
               </p>
