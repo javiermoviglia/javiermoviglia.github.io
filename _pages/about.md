@@ -48,9 +48,26 @@ My interests include machine learning, applied mathematics, computer vision, and
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
-        <div class="card-body">
-          <h4 class="card-title">M2OLIE ("Mannheim Molecular Intervention Environment")</h4>
-          <p class="card-text">Project from the "Forschungscampus – öffentlich-private Partnerschaft für Innovationen" program, funded by the Federal Ministry of Research, Technology and Space (Bundesministerium für Forschung, Technologie und Raumfahrt).</p>
+        <div class="row no-gutters align-items-stretch">
+          <div class="col-md-4">
+            <img src="https://images.unsplash.com/photo-1518152006812-edab29b069ac?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="M2OLIE project" loading="lazy">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title">M2OLIE ("Mannheim Molecular Intervention Environment")</h4>
+              <p class="card-text">Project from the "Forschungscampus – öffentlich-private Partnerschaft für Innovationen" program, funded by the Federal Ministry of Research, Technology and Space (Bundesministerium für Forschung, Technologie und Raumfahrt).</p>
+              <p>
+                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+              </p>
+              <p class="mb-1"><strong>Tech stack</strong></p>
+              <div class="mb-0">
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Python</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Robotics</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Computer Vision</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Docker</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -62,9 +79,26 @@ My interests include machine learning, applied mathematics, computer vision, and
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
-        <div class="card-body">
-          <h4 class="card-title">FlyCAD ("Flying Catheter Drive")</h4>
-          <p class="card-text">Funded by Invest BW from the Ministry of Economic Affairs, Labour and Tourism Baden-Württemberg (Ministerium für Wirtschaft, Arbeit und Tourismus Baden-Württemberg).</p>
+        <div class="row no-gutters align-items-stretch">
+          <div class="col-md-4">
+            <img src="https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="FlyCAD project" loading="lazy">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title">FlyCAD ("Flying Catheter Drive")</h4>
+              <p class="card-text">Funded by Invest BW from the Ministry of Economic Affairs, Labour and Tourism Baden-Württemberg (Ministerium für Wirtschaft, Arbeit und Tourismus Baden-Württemberg).</p>
+              <p>
+                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+              </p>
+              <p class="mb-1"><strong>Tech stack</strong></p>
+              <div class="mb-0">
+                <span class="badge badge-pill badge-primary mr-1 mb-1">C++</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Embedded Systems</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Control</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">CAD</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -76,9 +110,26 @@ My interests include machine learning, applied mathematics, computer vision, and
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
-        <div class="card-body">
-          <h4 class="card-title">Ariadne ("A new approach for automated catheter control")</h4>
-          <p class="card-text">Project funded by the Heidelberg University Excellence Strategy (Field of Focus 2).</p>
+        <div class="row no-gutters align-items-stretch">
+          <div class="col-md-4">
+            <img src="https://images.unsplash.com/photo-1559757175-7cb057fba93f?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Ariadne project" loading="lazy">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title">Ariadne ("A new approach for automated catheter control")</h4>
+              <p class="card-text">Project funded by the Heidelberg University Excellence Strategy (Field of Focus 2).</p>
+              <p>
+                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+              </p>
+              <p class="mb-1"><strong>Tech stack</strong></p>
+              <div class="mb-0">
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Python</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Motion Planning</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Simulation</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -90,9 +141,26 @@ My interests include machine learning, applied mathematics, computer vision, and
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
-        <div class="card-body">
-          <h4 class="card-title">PeTRA ("Personen-Transfer Roboter-Assistent")</h4>
-          <p class="card-text">Funded by the Federal Ministry of Research, Technology and Space (Bundesministerium für Forschung, Technologie und Raumfahrt).</p>
+        <div class="row no-gutters align-items-stretch">
+          <div class="col-md-4">
+            <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="PeTRA project" loading="lazy">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title">PeTRA ("Personen-Transfer Roboter-Assistent")</h4>
+              <p class="card-text">Funded by the Federal Ministry of Research, Technology and Space (Bundesministerium für Forschung, Technologie und Raumfahrt).</p>
+              <p>
+                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+              </p>
+              <p class="mb-1"><strong>Tech stack</strong></p>
+              <div class="mb-0">
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Mechatronics</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Safety Systems</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Sensors</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Prototyping</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -104,9 +172,26 @@ My interests include machine learning, applied mathematics, computer vision, and
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
-        <div class="card-body">
-          <h4 class="card-title">Mauer-Roboter 4.0</h4>
-          <p class="card-text">Collaborative project between the construction company Dressler GmbH, AAT Automation GmbH, and Hochschule Karlsruhe.</p>
+        <div class="row no-gutters align-items-stretch">
+          <div class="col-md-4">
+            <img src="https://images.unsplash.com/photo-1581092335397-9583eb92d232?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Mauer-Roboter 4.0 project" loading="lazy">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title">Mauer-Roboter 4.0</h4>
+              <p class="card-text">Collaborative project between the construction company Dressler GmbH, AAT Automation GmbH, and Hochschule Karlsruhe.</p>
+              <p>
+                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+              </p>
+              <p class="mb-1"><strong>Tech stack</strong></p>
+              <div class="mb-0">
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Industrial Robotics</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Automation</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">PLC</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Field Testing</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -118,9 +203,26 @@ My interests include machine learning, applied mathematics, computer vision, and
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
-        <div class="card-body">
-          <h4 class="card-title">Avatera robotic surgery training system</h4>
-          <p class="card-text">Developed at ITK Engineering.</p>
+        <div class="row no-gutters align-items-stretch">
+          <div class="col-md-4">
+            <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Avatera robotic surgery training system" loading="lazy">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title">Avatera robotic surgery training system</h4>
+              <p class="card-text">Developed at ITK Engineering.</p>
+              <p>
+                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+              </p>
+              <p class="mb-1"><strong>Tech stack</strong></p>
+              <div class="mb-0">
+                <span class="badge badge-pill badge-primary mr-1 mb-1">C++</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Qt</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Medical Robotics</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">HMI</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -132,9 +234,26 @@ My interests include machine learning, applied mathematics, computer vision, and
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
-        <div class="card-body">
-          <h4 class="card-title">Final degree project in Electronic Engineering</h4>
-          <p class="card-text">Completed at the National University of Mar del Plata (Universidad Nacional de Mar del Plata).</p>
+        <div class="row no-gutters align-items-stretch">
+          <div class="col-md-4">
+            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Final degree project in Electronic Engineering" loading="lazy">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title">Final degree project in Electronic Engineering</h4>
+              <p class="card-text">Completed at the National University of Mar del Plata (Universidad Nacional de Mar del Plata).</p>
+              <p>
+                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+              </p>
+              <p class="mb-1"><strong>Tech stack</strong></p>
+              <div class="mb-0">
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Electronics</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">PCB Design</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Firmware</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Instrumentation</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
