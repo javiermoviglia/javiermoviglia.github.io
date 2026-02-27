@@ -46,7 +46,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 <h3 id="portfolio-m2olie">M2OLIE</h3>
 <p>M2OLIE focuses on molecular intervention workflows, combining robotics, imaging, and software engineering for translational clinical innovation.</p>
 <div class="projects">
-  <div class="row row-cols-1 row-cols-md-2">
+  <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
@@ -188,7 +188,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 <h3 id="portfolio-ariadne">Ariadne</h3>
 <p>Ariadne explores automated catheter control, combining sensing, control algorithms, and validation on realistic intervention scenarios.</p>
 <div class="projects">
-  <div class="row row-cols-1 row-cols-md-2">
+  <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
