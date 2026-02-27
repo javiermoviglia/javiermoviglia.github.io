@@ -44,6 +44,8 @@ My interests include machine learning, applied mathematics, computer vision, and
 <h2 id="portfolio" style="margin-top: 3.25rem">Portfolio</h2>
 
 <h3 id="portfolio-m2olie">M2OLIE</h3>
+<p>M2OLIE (Mannheim Molecular Intervention Environment) is a long‑term, interdisciplinary research initiative funded by the German Federal Ministry of Education and Research. Its goal is to develop a new, efficient, and personalized cancer treatment process—especially for patients with oligometastatic cancer (a limited number of metastatic tumors).</p>
+
 <p>The project aims to create a "closed loop" clinical process that integrates imaging, diagnostics, molecular analysis, and minimally invasive therapy into a continuous, data-driven workflow. This could allow cancer patients to go from admission to individualized treatment and discharge in a much shorter timeframe than current standard care.</p>
 
 <p>This process works as follows:</p>
@@ -170,7 +172,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 </div>
 
 <h3 id="portfolio-flycad">FlyCAD</h3>
-<p>FlyCAD develops a flying catheter drive concept to improve precision and control in minimally invasive intervention systems.</p>
+<p>Comming soon</p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
@@ -188,7 +190,7 @@ My interests include machine learning, applied mathematics, computer vision, and
               </p>
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
-                <span class="badge badge-pill badge-primary mr-1 mb-1">C++</span>
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Matlab</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">Embedded Systems</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Control</span>
                 <span class="badge badge-pill badge-dark mr-1 mb-1">CAD</span>
@@ -202,7 +204,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 </div>
 
 <h3 id="portfolio-ariadne">Ariadne</h3>
-<p>Ariadne explores automated catheter control, combining sensing, control algorithms, and validation on realistic intervention scenarios.</p>
+<p>This project aimed to develop a novel system for the autonomous robotic navigation of guide wires during minimally invasive vascular procedures, such as angioplasty or aneurysm treatment. The primary goal was to significantly reduce complication rates—like perforations or dissections—caused by difficult wire navigation, especially in complex or tortuous vessels. The core challenge was the vast physiological variability of patient-specific vascular tissue, which makes accurate pre-operative modeling insufficient for safe real-time control. The project was funded by the Heidelberg University Excellence Strategy (Field of Focus 2).</p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
@@ -213,10 +215,11 @@ My interests include machine learning, applied mathematics, computer vision, and
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h4 class="card-title">Ariadne - Automated Control Strategy</h4>
-              <p class="card-text">Core control framework for autonomous catheter navigation with adaptive behavior under uncertain dynamics.</p>
+              <h4 class="card-title">Ensemble Kalman inversion for image guided guide wire navigation in vascular systems</h4>
+              <p class="card-text">Hanu, M., Hesser, J., Kanschat, G. et al. Ensemble Kalman inversion for image guided guide wire navigation in vascular systems. J.Math.Industry 14, 21 (2024).</p>
+              <p class="card-text">This paper proposes the use of a technique called Ensemble Kalman Inversion (EKI) with subsampling to estimate unknown parameters, such as density and elasticity, of a guide wire used in cardiovascular interventions. The goal is to replicate high-resolution images of the wire using a physical model based on Cosserat rods. Since images generate large volumes of data, the standard method becomes computationally expensive, so the authors introduce a subsampling approach that processes only parts of the image in each iteration. Experiments with real data show that this variant achieves similar accuracy to the full method, but at a much lower cost, paving the way for more efficient and safer control of the guide wire in real procedures. <strong>Contribution:</strong></p> development of the experimental setup</p>
               <p>
-                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+                <a class="btn btn-sm btn-outline-primary" href="https://link.springer.com/article/10.1186/s13362-024-00159-4#citeas" target="_blank" rel="noopener noreferrer">Paper</a>
               </p>
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
