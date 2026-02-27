@@ -44,7 +44,23 @@ My interests include machine learning, applied mathematics, computer vision, and
 <h2 id="portfolio" style="margin-top: 3.25rem">Portfolio</h2>
 
 <h3 id="portfolio-m2olie">M2OLIE</h3>
-<p>M2OLIE focuses on molecular intervention workflows, combining robotics, imaging, and software engineering for translational clinical innovation.</p>
+<p>The project aims to create a "closed loop" clinical process that integrates imaging, diagnostics, molecular analysis, and minimally invasive therapy into a continuous, data-driven workflow. This could allow cancer patients to go from admission to individualized treatment and discharge in a much shorter timeframe than current standard care.</p>
+
+<p>This process works as follows:</p>
+
+<ul>
+  <li><strong>Patient Admission:</strong> Electronic patient file is created.</li>
+  <li><strong>Imaging &amp; Biopsy:</strong> Precise imaging to locate tumors, followed by automated tissue sampling.</li>
+  <li><strong>Analysis:</strong> Molecular analysis of the biopsy in the lab.</li>
+  <li><strong>Therapy Decision:</strong> A digital expert system and an ad-hoc tumor board propose the individualized therapy.</li>
+  <li><strong>Therapy:</strong> The minimally invasive treatment is performed.</li>
+</ul>
+
+<p>All steps are supported by a central "Data Lake" that stores and processes all information. The long-term vision is to establish an M²OLIE clinic and integrate this process into standard clinical practice.</p>
+
+<p>Within the framework of this project, research has focused on the "Imaging &amp; Biopsy" step to precisely locate the tumor and extract its sample. This is achieved through innovations in tracking systems, patient registration, navigation systems, and robotic solutions. Some of the key research conducted is described below.</p>
+
+<p>For more information visit: <a href="https://www.m2olie.de/" target="_blank" rel="noopener noreferrer">https://www.m2olie.de/</a></p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
