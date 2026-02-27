@@ -91,6 +91,14 @@
             </a>
           </li>
 
+          <!-- Projects -->
+          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/#projects' | relative_url }}">
+              Projects
+              {% if page.permalink == '/' %}<span class="sr-only">(current)</span>{% endif %}
+            </a>
+          </li>
+
           <!-- Portfolio -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/#portfolio' | relative_url }}">
