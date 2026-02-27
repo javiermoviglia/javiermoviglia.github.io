@@ -69,7 +69,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1518152006812-edab29b069ac?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="M2OLIE workflow architecture" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1518152006812-edab29b069ac?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="M2OLIE workflow architecture" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -95,7 +95,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="M2OLIE device integration" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="M2OLIE device integration" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -121,7 +121,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1559757175-7cb057fba93f?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="M2OLIE planning algorithms" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1559757175-7cb057fba93f?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="M2OLIE planning algorithms" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -147,7 +147,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="M2OLIE validation" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="M2OLIE validation" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -179,7 +179,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="FlyCAD project" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="FlyCAD project" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -211,13 +211,14 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="/assets/img/catheter_guido.png" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Ariadne control strategy" loading="lazy">
+            <img src="/assets/img/catheter_guido.png" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Ariadne control strategy" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h4 class="card-title">Ensemble Kalman inversion for image guided guide wire navigation in vascular systems</h4>
               <p class="card-text">Hanu, M., Hesser, J., Kanschat, G. et al. Ensemble Kalman inversion for image guided guide wire navigation in vascular systems. J.Math.Industry 14, 21 (2024).</p>
-              <p class="card-text">This paper proposes the use of a technique called Ensemble Kalman Inversion (EKI) with subsampling to estimate unknown parameters, such as density and elasticity, of a guide wire used in cardiovascular interventions. The goal is to replicate high-resolution images of the wire using a physical model based on Cosserat rods. Since images generate large volumes of data, the standard method becomes computationally expensive, so the authors introduce a subsampling approach that processes only parts of the image in each iteration. Experiments with real data show that this variant achieves similar accuracy to the full method, but at a much lower cost, paving the way for more efficient and safer control of the guide wire in real procedures. <strong>Contribution:</strong> development of the experimental setup</p>
+              <p class="card-text">This paper proposes the use of a technique called Ensemble Kalman Inversion (EKI) with subsampling to estimate unknown parameters, such as density and elasticity, of a guide wire used in cardiovascular interventions. The goal is to replicate high-resolution images of the wire using a physical model based on Cosserat rods. Since images generate large volumes of data, the standard method becomes computationally expensive, so the authors introduce a subsampling approach that processes only parts of the image in each iteration. Experiments with real data show that this variant achieves similar accuracy to the full method, but at a much lower cost, paving the way for more efficient and safer control of the guide wire in real procedures.</p>
+              <p><strong>Contribution:</strong> development of the experimental setup</p>
               <p>
                 <a class="btn btn-sm btn-outline-primary" href="https://link.springer.com/article/10.1186/s13362-024-00159-4#citeas" target="_blank" rel="noopener noreferrer">Paper</a>
               </p>
@@ -238,7 +239,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Ariadne sensor fusion" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Ariadne sensor fusion" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -264,7 +265,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Ariadne experimental evaluation" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Ariadne experimental evaluation" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -296,7 +297,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="PeTRA project" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="PeTRA project" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -328,7 +329,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1581092335397-9583eb92d232?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Mauer-Roboter 4.0 project" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1581092335397-9583eb92d232?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Mauer-Roboter 4.0 project" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -360,7 +361,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Avatera robotic surgery training system" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Avatera robotic surgery training system" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -392,7 +393,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" class="img-fluid h-100 w-100" style="object-fit: cover" alt="Final degree project in Electronic Engineering" loading="lazy">
+            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Final degree project in Electronic Engineering" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
