@@ -73,7 +73,7 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="/assets/img/mono.png" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="mono" loading="lazy">
+            <img src="/assets/img/mono.gif" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="mono" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
