@@ -60,7 +60,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 
 <p>All steps are supported by a central "Data Lake" that stores and processes all information. The long-term vision is to establish an M²OLIE clinic and integrate this process into standard clinical practice.</p>
 
-<p>Within the framework of this project, research has focused on the "Imaging &amp; Biopsy" step to precisely locate the tumor and extract its sample. This is achieved through innovations in tracking systems, patient registration, navigation systems, and robotic solutions. Some of the key research conducted is described below.</p>
+<p><strong>Activities:</strong> within the framework of this project, research has focused on the "Imaging &amp; Biopsy" step to precisely locate the tumor and extract its sample. This is achieved through innovations in tracking systems, patient registration, navigation systems, and robotic solutions. Some of the key research conducted is described below.</p>
 
 <p>For more information visit: <a href="https://www.m2olie.de/" target="_blank" rel="noopener noreferrer">https://www.m2olie.de/</a></p>
 <div class="projects">
@@ -173,6 +173,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 
 <h3 id="portfolio-flycad">FlyCAD</h3>
 <p>Comming soon</p>
+<p><strong>Time period worked on the project:</strong> 02.2025 - 09.2025</p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
@@ -204,7 +205,9 @@ My interests include machine learning, applied mathematics, computer vision, and
 </div>
 
 <h3 id="portfolio-ariadne">Ariadne</h3>
+<p><strong>Time period worked on the project:</strong> 05.2022 - 12.2023</p>
 <p>This project aimed to develop a novel system for the autonomous robotic navigation of guide wires during minimally invasive vascular procedures, such as angioplasty or aneurysm treatment. The primary goal was to significantly reduce complication rates—like perforations or dissections—caused by difficult wire navigation, especially in complex or tortuous vessels. The core challenge was the vast physiological variability of patient-specific vascular tissue, which makes accurate pre-operative modeling insufficient for safe real-time control. The project was funded by the Heidelberg University Excellence Strategy (Field of Focus 2).</p>
+<p><strong>Activities:</strong> the guide wire actuation system was designed with computer-based control using ROS, and different mechanisms for measuring guide wire force, both distal and proximal, were investigated in order to use this information as haptic feedback.</p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
@@ -225,9 +228,10 @@ My interests include machine learning, applied mathematics, computer vision, and
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
                 <span class="badge badge-pill badge-primary mr-1 mb-1">Python</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Embedded Systems</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">Control</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">ROS</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Simulation</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">CAD</span>
               </div>
             </div>
           </div>
@@ -239,21 +243,24 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Ariadne sensor fusion" loading="lazy">
+            <img src="/assets/img/fbg.png" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Ariadne force feedback system" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h4 class="card-title">Ariadne - Sensor Fusion</h4>
-              <p class="card-text">Fusion of tracking and imaging signals to increase robustness of guidance and stability during intervention tasks.</p>
+              <h4 class="card-title">FBG-Based Distal Force Sensor to Improve Remote Catheter Procedures</h4>
+              <p class="card-text"><strong>J. H. Moviglia Parra</strong>, A. Hegel, and J. Stallkamp, “FBG-based distal force sensor to improve remote catheter procedures,” 7th Image-Guided Interventions Conference, Magdeburg, Germany, Oct. 23–24, 2025, pp. 49–50.</p>
+              <p class="card-text">FBG-based distal force sensors were developed for fiber-optic guidewires to provide real-time, temperature-compensated feedback during minimally invasive catheterizations. Integrated into a remote system, they improved control, safety, and precision, addressing the lack of tactile information at the guidewire tip. Future work will focus on multi-axis sensing, miniaturization, and clinical validation.</p>
+              <p><strong>Contribution:</strong> Management and supervision of A. Hegel’s master’s thesis; writing of abstract</p>
               <p>
-                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+                <a class="btn btn-sm btn-outline-primary" href="https://www.igic.de/igic_media/Data/Book+of+Abstracts+IGIC+2025.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
               </p>
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
-                <span class="badge badge-pill badge-primary mr-1 mb-1">C++</span>
-                <span class="badge badge-pill badge-info mr-1 mb-1">Sensor Fusion</span>
-                <span class="badge badge-pill badge-secondary mr-1 mb-1">Kalman Filters</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Real-time</span>
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Python</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Fiber optic</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Haptic Feedback</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Embedded Systems</span>
               </div>
             </div>
           </div>
@@ -261,36 +268,16 @@ My interests include machine learning, applied mathematics, computer vision, and
       </div>
     </div>
 
-    <div class="col mb-4">
-      <div class="card h-100 hoverable">
-        <div class="row no-gutters align-items-stretch">
-          <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Ariadne experimental evaluation" loading="lazy">
-          </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <h4 class="card-title">Ariadne - Experimental Evaluation</h4>
-              <p class="card-text">Comprehensive testing on phantom scenarios to validate precision, repeatability, and operator-assist capabilities.</p>
-              <p>
-                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
-              </p>
-              <p class="mb-1"><strong>Tech stack</strong></p>
-              <div class="mb-0">
-                <span class="badge badge-pill badge-primary mr-1 mb-1">Benchmarking</span>
-                <span class="badge badge-pill badge-info mr-1 mb-1">Data Analysis</span>
-                <span class="badge badge-pill badge-secondary mr-1 mb-1">Visualization</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Reporting</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+
+
+
   </div>
 </div>
 
 <h3 id="portfolio-petra">PeTRA</h3>
-<p>PeTRA addresses safe robotic assistance for assisted transfer scenarios, with a strong emphasis on reliability and human-centered operation.</p>
+<p><strong>Time period worked on the project:</strong> 12.2020 - 04.2022</p>
+<p>The PeTRA (Person Transfer Robot Assistant) project, developed by the Hochschule Karlsruhe, aimed to create a robotic assistant that helped transport and accompany patients safely within hospitals or healthcare facilities. Its goal was to reduce the workload of healthcare staff, improve the efficiency of hospital processes, and increase patients’ autonomy and safety during their movements between different areas.</p>
+<p><strong>Activities:</strong> the research focused on the development of the robot’s navigation algorithm with a trailer attached for transport, using the ROS Navigation Stack and its integration into the software architecture through behavior trees. Work was also carried out jointly with the industrial partner KUKA for its integration.</p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
