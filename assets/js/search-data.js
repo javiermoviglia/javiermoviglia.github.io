@@ -462,14 +462,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%4A%61%76%69%65%72.%4D%6F%76%69%67%6C%69%61@%6D%65%64%6D%61.%75%6E%69-%68%65%69%64%65%6C%62%65%72%67.%64%65", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0000-0000-0000", "_blank");
+          window.open("https://orcid.org/0000-0002-3939-5893", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -483,7 +483,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/your-linkedin-username", "_blank");
+          window.open("https://www.linkedin.com/in/javiermoviglia", "_blank");
         },
       },{
       id: 'light-theme',
