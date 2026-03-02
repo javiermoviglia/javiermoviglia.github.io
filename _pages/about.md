@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Researcher at Your University
+subtitle: PhD Candidate in Medical Technology | Bridging Research and Healthcare Innovation
 
 profile:
   align: right
@@ -25,11 +25,31 @@ latest_posts:
 
 <div id="about"></div>
 
-I am a researcher working on [your main research area](#), with a focus on practical and robust methods for real-world problems.
+I am a PhD candidate in Medical Technology at Heidelberg University, working at the Medical Faculty Mannheim on sensing and robotic systems for image-guided interventions.
 
-Previously, I completed my [Master's degree](#) at [institution](#), and my [Bachelor's degree](#) at [institution](#).
+From an early age, I’ve been drawn to creating technologies that improve people’s health and care. My work focuses on turning innovative research into practical medical solutions that are safe, reliable, and usable in real clinical settings.
 
-My interests include machine learning, applied mathematics, computer vision, and trustworthy AI.
+I operate at the intersection of medical robotics, computer vision, and real-time control, collaborating closely with clinicians, interdisciplinary teams, and industry partners to bridge the gap between research and product development.
+
+<strong>Key Expertise:</strong>
+
+- Medical robotics & image-guided interventions
+- Real-time control & perception pipelines
+- System integration & clinical translation
+- Hardware-software co-design & prototype deployment
+
+<strong>Technical Skills:</strong>
+C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLAB, Unity 3D, FPGA/VHDL
+
+<strong>Teaching</strong>
+
+- Medical Physics (SS 2025, SS 2024). Medical Faculty Mannheim. Academic collaborator. Topics: Optics and radioactivity
+- Supervision of various academic works (Master's theses, Bachelor's theses, internships and research). See projects for more details
+
+<h2 id="contact" style="margin-top: 2rem">Contact</h2>
+
+- Email: [Javier.Moviglia@medma.uni-heidelberg.de](mailto:Javier.Moviglia@medma.uni-heidelberg.de)
+- LinkedIn: [linkedin.com/in/javiermoviglia](https://www.linkedin.com/in/javiermoviglia)
 
 <h2 id="projects" style="margin-top: 3.25rem">Projects</h2>
 
@@ -41,11 +61,11 @@ My interests include machine learning, applied mathematics, computer vision, and
 - [Avatera robotic surgery training system](#portfolio-avatera-robotic-surgery-training-system). Developed at ITK Engineering.
 - [Final degree project in Electronic Engineering](#portfolio-final-degree-project-in-electronic-engineering). Completed at the National University of Mar del Plata (Universidad Nacional de Mar del Plata).
 
-<h2 id="portfolio" style="margin-top: 3.25rem">Portfolio</h2>
+<h2 id="portfolio" style="margin-top: 3.25rem">Portfolio | <a href="#contact">Contact</a></h2>
 
 <h3 id="portfolio-m2olie">M2OLIE</h3>
 <p><strong>Time period worked on the project:</strong> 05.2022 - today</p>
-<p><strong>Place:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University</p>
+<p><strong>Place:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University, Germany</p>
 <p>M2OLIE (Mannheim Molecular Intervention Environment) is a long‑term, interdisciplinary research initiative funded by the German Federal Ministry of Education and Research. Its goal is to develop a new, efficient, and personalized cancer treatment process—especially for patients with oligometastatic cancer (a limited number of metastatic tumors).</p>
 
 <p>The project aims to create a "closed loop" clinical process that integrates imaging, diagnostics, molecular analysis, and minimally invasive therapy into a continuous, data-driven workflow. This could allow cancer patients to go from admission to individualized treatment and discharge in a much shorter timeframe than current standard care.</p>
@@ -92,6 +112,7 @@ My interests include machine learning, applied mathematics, computer vision, and
                 <span class="badge badge-pill badge-dark mr-1 mb-1">Docker</span>
                 <span class="badge badge-pill badge-dark mr-1 mb-1">Surgical Navigation</span>
                 <span class="badge badge-pill badge-dark mr-1 mb-1">Optical tracking</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">3D Printing</span>
               </div>
             </div>
           </div>
@@ -228,7 +249,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 <h3 id="portfolio-flycad">FlyCAD</h3>
 <p>Comming soon</p>
 <p><strong>Time period worked on the project:</strong> 02.2025 - 09.2025</p>
-<p><strong>Place:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University</p>
+<p><strong>Place:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University, Germany</p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
@@ -261,7 +282,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 
 <h3 id="portfolio-ariadne">Ariadne</h3>
 <p><strong>Time period worked on the project:</strong> 05.2022 - 12.2023</p>
-<p><strong>Place:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University</p>
+<p><strong>Place:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University, Germany</p>
 <p>This project aimed to develop a novel system for the autonomous robotic navigation of guide wires during minimally invasive vascular procedures, such as angioplasty or aneurysm treatment. The primary goal was to significantly reduce complication rates—like perforations or dissections—caused by difficult wire navigation, especially in complex or tortuous vessels. The core challenge was the vast physiological variability of patient-specific vascular tissue, which makes accurate pre-operative modeling insufficient for safe real-time control. The project was funded by the Heidelberg University Excellence Strategy (Field of Focus 2).</p>
 <p><strong>Activities:</strong> the guide wire actuation system was designed with computer-based control using ROS, and different mechanisms for measuring guide wire force, both distal and proximal, were investigated in order to use this information as haptic feedback.</p>
 <div class="projects">
@@ -332,7 +353,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 
 <h3 id="portfolio-petra">PeTRA</h3>
 <p><strong>Time period worked on the project:</strong> 12.2020 - 04.2022</p>
-<p><strong>Place:</strong> Institute for Robotics and Autonomous Systems (IRAS) at Hochschule Karlsruhe</p>
+<p><strong>Place:</strong> Institute for Robotics and Autonomous Systems (IRAS) at Hochschule Karlsruhe, Germany</p>
 <p>The PeTRA (Person Transfer Robot Assistant) project, developed by the Hochschule Karlsruhe, aimed to create a robotic assistant that helped transport and accompany patients safely within hospitals or healthcare facilities. Its goal was to reduce the workload of healthcare staff, improve the efficiency of hospital processes, and increase patients’ autonomy and safety during their movements between different areas.</p>
 <p><strong>Activities:</strong> the research focused on the development of the robot’s navigation algorithm with a trailer attached for transport, using the ROS Navigation Stack and its integration into the software architecture through behavior trees. Work was also carried out jointly with the industrial partner KUKA for its integration.</p>
 <p>For more information visit: <a href="http://patiententransportassistent.de/" target="_blank" rel="noopener noreferrer">http://patiententransportassistent.de/</a></p>
@@ -371,7 +392,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 
 <h3 id="portfolio-mauer-roboter-40">Mauer-Roboter 4.0</h3>
 <p><strong>Time period worked on the project:</strong> 02.2021 - 04.2022</p>
-<p><strong>Place:</strong> Institute for Robotics and Autonomous Systems (IRAS) at Hochschule Karlsruhe</p>
+<p><strong>Place:</strong> Institute for Robotics and Autonomous Systems (IRAS) at Hochschule Karlsruhe, Germany</p>
 <p>In collaboration with the companies Dressler GmbH and AAT Automation GmbH, a mobile robot was developed at the Institute for Robotics and Autonomous Systems (IRAS) at Hochschule Karlsruhe with the aim of automating the construction of sand-lime brick walls on construction sites.</p>
 <p><strong>Activities:</strong> Project management, communication with partners, and supervision of several student projects that contributed to the construction of the robot. Among the technical activities carried out with students were the installation of the KUKA robotic arm in the institute’s facilities, the robot safety cage with integrated sensors and PLC control (Programmable Logic Controller), programming of the EKI code interface with ROS, development of a mobile platform position measurement system using integrated sensors and an external tracking system, implementation of pick-and-place operations with computer vision algorithms, and market studies.</p>
 <p>For more information visit: <a href="https://www.h-ka.de/iras/profil/news-detailseite/artikel/mauer-roboter-40" target="_blank" rel="noopener noreferrer">https://www.h-ka.de/iras/profil/news-detailseite/artikel/mauer-roboter-40</a></p>
@@ -408,7 +429,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 
 <h3 id="portfolio-avatera-robotic-surgery-training-system">Avatera robotic surgery training system</h3>
 <p><strong>Time period worked on the project:</strong> 03.2019 - 08.2019</p>
-<p><strong>Place:</strong> ITK Engineering GmbH</p>
+<p><strong>Place:</strong> ITK Engineering GmbH, Rülzheim, Germany</p>
 <p>The project consisted of the development of the Avatera robotic training simulator.</p>
 <p><strong>Activities:</strong> programming VR (virtual reality) exercises with Unity 3D for the training simulator, hardware configuration, programming the interface with Qt, research on realistic tissue cross-section representation, and collaborative work using Git.</p>
 <p>For more information visit: </p>
