@@ -61,7 +61,7 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
 - [Avatera robotic surgery training system](#portfolio-avatera-robotic-surgery-training-system). Developed at ITK Engineering.
 - [Final degree project in Electronic Engineering](#portfolio-final-degree-project-in-electronic-engineering). Completed at the National University of Mar del Plata (Universidad Nacional de Mar del Plata).
 
-<h2 id="portfolio" style="margin-top: 3.25rem">Portfolio | <a href="#contact">Contact</a></h2>
+<h2 id="portfolio" style="margin-top: 3.25rem">Portfolio</h2>
 
 <h3 id="portfolio-m2olie">M2OLIE</h3>
 <p><strong>Time period worked on the project:</strong> 05.2022 - today</p>
