@@ -44,6 +44,8 @@ My interests include machine learning, applied mathematics, computer vision, and
 <h2 id="portfolio" style="margin-top: 3.25rem">Portfolio</h2>
 
 <h3 id="portfolio-m2olie">M2OLIE</h3>
+<p><strong>Time period worked on the project:</strong> 05.2022 - today</p>
+<p><strong>PLace:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University</p>
 <p>M2OLIE (Mannheim Molecular Intervention Environment) is a long‑term, interdisciplinary research initiative funded by the German Federal Ministry of Education and Research. Its goal is to develop a new, efficient, and personalized cancer treatment process—especially for patients with oligometastatic cancer (a limited number of metastatic tumors).</p>
 
 <p>The project aims to create a "closed loop" clinical process that integrates imaging, diagnostics, molecular analysis, and minimally invasive therapy into a continuous, data-driven workflow. This could allow cancer patients to go from admission to individualized treatment and discharge in a much shorter timeframe than current standard care.</p>
@@ -174,6 +176,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 <h3 id="portfolio-flycad">FlyCAD</h3>
 <p>Comming soon</p>
 <p><strong>Time period worked on the project:</strong> 02.2025 - 09.2025</p>
+<p><strong>PLace:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University</p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
@@ -206,6 +209,7 @@ My interests include machine learning, applied mathematics, computer vision, and
 
 <h3 id="portfolio-ariadne">Ariadne</h3>
 <p><strong>Time period worked on the project:</strong> 05.2022 - 12.2023</p>
+<p><strong>PLace:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University</p>
 <p>This project aimed to develop a novel system for the autonomous robotic navigation of guide wires during minimally invasive vascular procedures, such as angioplasty or aneurysm treatment. The primary goal was to significantly reduce complication rates—like perforations or dissections—caused by difficult wire navigation, especially in complex or tortuous vessels. The core challenge was the vast physiological variability of patient-specific vascular tissue, which makes accurate pre-operative modeling insufficient for safe real-time control. The project was funded by the Heidelberg University Excellence Strategy (Field of Focus 2).</p>
 <p><strong>Activities:</strong> the guide wire actuation system was designed with computer-based control using ROS, and different mechanisms for measuring guide wire force, both distal and proximal, were investigated in order to use this information as haptic feedback.</p>
 <div class="projects">
@@ -219,7 +223,7 @@ My interests include machine learning, applied mathematics, computer vision, and
           <div class="col-md-8">
             <div class="card-body">
               <h4 class="card-title">Ensemble Kalman inversion for image guided guide wire navigation in vascular systems</h4>
-              <p class="card-text">Hanu, M., Hesser, J., Kanschat, G. et al. Ensemble Kalman inversion for image guided guide wire navigation in vascular systems. J.Math.Industry 14, 21 (2024).</p>
+              <p class="card-text">Hanu, M., Hesser, J., Kanschat, G., <strong>Moviglia, J.</strong>, Schillings, C., & Stallkamp, J. Ensemble Kalman inversion for image guided guide wire navigation in vascular systems. J.Math.Industry 14, 21 (2024). https://doi.org/10.1186/s13362-024-00159-4 </p>
               <p class="card-text">This paper proposes the use of a technique called Ensemble Kalman Inversion (EKI) with subsampling to estimate unknown parameters, such as density and elasticity, of a guide wire used in cardiovascular interventions. The goal is to replicate high-resolution images of the wire using a physical model based on Cosserat rods. Since images generate large volumes of data, the standard method becomes computationally expensive, so the authors introduce a subsampling approach that processes only parts of the image in each iteration. Experiments with real data show that this variant achieves similar accuracy to the full method, but at a much lower cost, paving the way for more efficient and safer control of the guide wire in real procedures.</p>
               <p><strong>Contribution:</strong> development of the experimental setup</p>
               <p>
@@ -276,29 +280,34 @@ My interests include machine learning, applied mathematics, computer vision, and
 
 <h3 id="portfolio-petra">PeTRA</h3>
 <p><strong>Time period worked on the project:</strong> 12.2020 - 04.2022</p>
+<p><strong>PLace:</strong> Institute for Robotics and Autonomous Systems (IRAS) at Hochschule Karlsruhe</p>
 <p>The PeTRA (Person Transfer Robot Assistant) project, developed by the Hochschule Karlsruhe, aimed to create a robotic assistant that helped transport and accompany patients safely within hospitals or healthcare facilities. Its goal was to reduce the workload of healthcare staff, improve the efficiency of hospital processes, and increase patients’ autonomy and safety during their movements between different areas.</p>
 <p><strong>Activities:</strong> the research focused on the development of the robot’s navigation algorithm with a trailer attached for transport, using the ROS Navigation Stack and its integration into the software architecture through behavior trees. Work was also carried out jointly with the industrial partner KUKA for its integration.</p>
+<p>For more information visit: <a href="http://patiententransportassistent.de/" target="_blank" rel="noopener noreferrer">http://patiententransportassistent.de/</a></p>
+
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="PeTRA project" loading="lazy">
+            <img src="/assets/img/petra.png" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="petra" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h4 class="card-title">PeTRA ("Personen-Transfer Roboter-Assistent")</h4>
-              <p class="card-text">Funded by the Federal Ministry of Research, Technology and Space (Bundesministerium für Forschung, Technologie und Raumfahrt).</p>
+              <h4 class="card-title">Softwareentwicklung des Personen-Transfer Roboter-Assistenten (PeTRA) zur Unterstützung von Pflegekräften ()</h4>
+              <p class="card-text">A. Zachariae, C. Wurll, M. Weisenböhler, and <strong>J. Moviglia</strong>, “Softwareentwicklung des Personen-Transfer Roboter-Assistenten (PeTRA) zur Unterstützung von Pflegekräften,” in 4. Clusterkonferenz „Zukunft der Pflege“, Hannover, Feb. 2022, pp. 51–52.</p>
+              <p class="card-text">The PeTRA project aims to reduce the workload of healthcare staff by automating patient transport, allowing more time for quality care while promoting patient mobility and autonomy. At Hochschule Karlsruhe, software was developed using ROS 2 to manage workflow, monitor patients, and facilitate communication. The system coordinates transport via behavior trees, supports multiple mobility modes, and enables human-machine interaction through voice commands, multilingual speech output, and a tablet interface. Patient safety is ensured through real-time monitoring with a 3D depth camera and neural network for pose detection, allowing immediate assistance in case of falls, fainting, or other risks</p>
+              <p><strong>Contribution:</strong> Navigation and integration in the software architecture</p>
               <p>
-                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+                <a class="btn btn-sm btn-outline-primary" href="https://ppz-hannover.de/wp-content/uploads/2024/10/CZP2021_Konferenzband.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
               </p>
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
-                <span class="badge badge-pill badge-primary mr-1 mb-1">Mechatronics</span>
-                <span class="badge badge-pill badge-info mr-1 mb-1">Safety Systems</span>
-                <span class="badge badge-pill badge-secondary mr-1 mb-1">Sensors</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Prototyping</span>
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Robotic</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Navigation</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Software architecture</span>
               </div>
             </div>
           </div>
@@ -309,28 +318,33 @@ My interests include machine learning, applied mathematics, computer vision, and
 </div>
 
 <h3 id="portfolio-mauer-roboter-40">Mauer-Roboter 4.0</h3>
-<p>Mauer-Roboter 4.0 targets automation in construction through collaborative robotics and industrial integration in real building workflows.</p>
+<p><strong>Time period worked on the project:</strong> 02.2021 - 04.2022</p>
+<p><strong>PLace:</strong> Institute for Robotics and Autonomous Systems (IRAS) at Hochschule Karlsruhe</p>
+<p>In collaboration with the companies Dressler GmbH and AAT Automation GmbH, a mobile robot was developed at the Institute for Robotics and Autonomous Systems (IRAS) at Hochschule Karlsruhe with the aim of automating the construction of sand-lime brick walls on construction sites.</p>
+<p><strong>Activities:</strong> Project management, communication with partners, and supervision of several student projects that contributed to the construction of the robot. Among the technical activities carried out with students were the installation of the KUKA robotic arm in the institute’s facilities, the robot safety cage with integrated sensors and PLC control (Programmable Logic Controller), programming of the EKI code interface with ROS, development of a mobile platform position measurement system using integrated sensors and an external tracking system, implementation of pick-and-place operations with computer vision algorithms, and market studies.</p>
+<p>For more information visit: <a href="https://www.h-ka.de/iras/profil/news-detailseite/artikel/mauer-roboter-40" target="_blank" rel="noopener noreferrer">https://www.h-ka.de/iras/profil/news-detailseite/artikel/mauer-roboter-40</a></p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1581092335397-9583eb92d232?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Mauer-Roboter 4.0 project" loading="lazy">
+            <img src="/assets/img/maurob.png" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="maurob" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h4 class="card-title">Mauer-Roboter 4.0</h4>
               <p class="card-text">Collaborative project between the construction company Dressler GmbH, AAT Automation GmbH, and Hochschule Karlsruhe.</p>
               <p>
-                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+                <a class="btn btn-sm btn-outline-primary" href="https://www.h-ka.de/iras/profil/news-detailseite/artikel/mauer-roboter-40" target="_blank" rel="noopener noreferrer">Web</a>
               </p>
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
-                <span class="badge badge-pill badge-primary mr-1 mb-1">Industrial Robotics</span>
-                <span class="badge badge-pill badge-info mr-1 mb-1">Automation</span>
-                <span class="badge badge-pill badge-secondary mr-1 mb-1">PLC</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Field Testing</span>
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Management</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Robotic</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Computer vision</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Navigation</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Pick and Place</span>
               </div>
             </div>
           </div>
@@ -341,28 +355,35 @@ My interests include machine learning, applied mathematics, computer vision, and
 </div>
 
 <h3 id="portfolio-avatera-robotic-surgery-training-system">Avatera robotic surgery training system</h3>
-<p>This project focuses on a robotic surgery training platform designed to improve usability, reproducibility, and surgeon learning workflows.</p>
+<p><strong>Time period worked on the project:</strong> 03.2019 - 08.2019</p>
+<p><strong>PLace:</strong> ITK Engineering GmbH</p>
+<p>The project consisted of the development of the Avatera robotic training simulator.</p>
+<p><strong>Activities:</strong> programming VR (virtual reality) exercises with Unity 3D for the training simulator, hardware configuration, programming the interface with Qt, research on realistic tissue cross-section representation, and collaborative work using Git.</p>
+<p>For more information visit: </p>
+<p><a href="https://www.itk-engineering.de/" target="_blank" rel="noopener noreferrer">https://www.itk-engineering.de/</a></p>
+<p><a href="https://avatera.eu/avatera-system" target="_blank" rel="noopener noreferrer">https://avatera.eu/avatera-system</a></p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Avatera robotic surgery training system" loading="lazy">
+            <img src="/assets/img/avatera.png" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="avatera" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h4 class="card-title">Avatera robotic surgery training system</h4>
-              <p class="card-text">Developed at ITK Engineering.</p>
+              <p class="card-text">Developed at ITK Engineering GmbH.</p>
               <p>
-                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+                <a class="btn btn-sm btn-outline-primary" href="https://avatera.eu/avatera-system" target="_blank" rel="noopener noreferrer">Web</a>
               </p>
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
-                <span class="badge badge-pill badge-primary mr-1 mb-1">C++</span>
+                <span class="badge badge-pill badge-primary mr-1 mb-1">C#</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">Qt</span>
-                <span class="badge badge-pill badge-secondary mr-1 mb-1">Medical Robotics</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">HMI</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Medical Simulator</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Unity 3D</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">git</span>
               </div>
             </div>
           </div>
@@ -373,28 +394,33 @@ My interests include machine learning, applied mathematics, computer vision, and
 </div>
 
 <h3 id="portfolio-final-degree-project-in-electronic-engineering">Final degree project in Electronic Engineering</h3>
-<p>Final undergraduate engineering work centered on the design, implementation, and validation of a complete electronic system.</p>
+<p><strong>Time period worked on the project:</strong> 2019 - 08.2020</p>
+<p><strong>PLace:</strong> Instrumentation and Control Laboratory. Department of Electronics, Faculty of Engineering, National University of Mar del Plata. Argentina</p>
+<p>In my thesis, I worked on interleaved DC/DC converters, which efficiently control high currents by splitting them across multiple phases. I focused on mitigating the effects of phase inductor imbalances, which increase total current ripple (∆iₜ) and lower-frequency harmonics. Following the method proposed by Antoszczuk et al., I implemented an optimal phase ordering using genetic algorithms to minimize ripple amplitude. My work included developing signal acquisition hardware, designing a digital platform on an FPGA in VHDL, and validating the implementation through simulations and experimental tests. This project was carried out at the Instrumentation and Control Laboratory of the National University of Mar del Plata (UNMdP), which collaborates closely with CERN (European Organization for Nuclear Research), and it is one of several projects that emerged from these collaborative efforts.</p>
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="Final degree project in Electronic Engineering" loading="lazy">
+            <img src="/assets/img/final.png" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="final" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h4 class="card-title">Final degree project in Electronic Engineering</h4>
-              <p class="card-text">Completed at the National University of Mar del Plata (Universidad Nacional de Mar del Plata).</p>
+              <h4 class="card-title">Ordenamiento óptimo de las fases de un convertidor multifásico de potencia mediante FPGA</h4>
+              <p class="card-text"><strong>J. H. Moviglia</strong>, Ordenamiento óptimo de las fases de un convertidor multifásico de potencia mediante FPGA, Undergraduate thesis, Faculty of Engineering, National University of Mar del Plata, Argentina, Aug. 2020.</p>
               <p>
-                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+                <a class="btn btn-sm btn-outline-primary" href="https://rinfi.fi.mdp.edu.ar/bitstream/handle/123456789/426/Moviglia-TFG-IEe-2020.pdf?sequence=1&isAllowed=y" target="_blank" rel="noopener noreferrer">pdf</a>
               </p>
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
                 <span class="badge badge-pill badge-primary mr-1 mb-1">Electronics</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">PCB Design</span>
-                <span class="badge badge-pill badge-secondary mr-1 mb-1">Firmware</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Instrumentation</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">FPGA</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">VHDL</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Matlab</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">AI</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Simulation</span>
               </div>
             </div>
           </div>
