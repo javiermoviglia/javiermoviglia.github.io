@@ -135,12 +135,44 @@ My interests include machine learning, applied mathematics, computer vision, and
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
           <div class="col-md-4">
+            <img src="/assets/img/registration.gif" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="mono" loading="lazy">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title">Automated registration for interventional robotic systems</h4>
+              <p class="card-text"><strong>Moviglia, J. H.</strong>, Dittmann, M., Siegfarth, M., Lutz, R., Iseke, N.-C., Sadi, F., & Stallkamp, J. (2023, October 19–20). Automated registration for interventional robotic systems. 6th Image-Guided Interventions Conference (IGIC), p. 60.</p>
+              <p class="card-text">Three optical methods were developed for automatic patient registration without markers in CT-guided biopsies to reduce intervention time and radiation exposure. The approaches include a multi-stereo camera system for needle tracking, a 3D scanner using surface registration for higher precision, and a time-of-flight camera combined with a monocular camera to track needle position and detect patient surface deformation due to respiration. Experimental results showed millimeter-level accuracy, with the 3D scanner achieving the highest precision, while the time-of-flight approach appears most promising for dynamic tracking and future tumor localization.</p>
+              <p>
+                <a class="btn btn-sm btn-outline-primary" href="https://www.igic.de/igic_media/Data/Book+of+Abstracts+IGIC+2023.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
+              </p>
+              <p class="mb-1"><strong>Tech stack</strong></p>
+              <div class="mb-0">
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Monocular camera</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">3D Scanner</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">ToF camera</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Optics</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Surgical navigation</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Surface registration</span>
+                <span class="badge badge-pill badge-dark mr-1 mb-1">Optical tracking</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col mb-4">
+      <div class="card h-100 hoverable">
+        <div class="row no-gutters align-items-stretch">
+          <div class="col-md-4">
             <img src="/assets/img/hno.png" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="mono" loading="lazy">
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h4 class="card-title">Entwicklung und Evaluation einer Ultraschallnavigation für Freihandbiopsien kleiner Raumforderungen im Kopf-Hals-Bereich</h4>
-              <p class="card-text"Scherl, C., Otto, M., Ghanem, I., <strong>Moviglia, J.</strong>, Sadi, F., Gnilka, T., Rotter, N., Zaubitzer, L., Stallkamp, J. Entwicklung und Evaluation einer Ultraschallnavigation für Freihandbiopsien kleiner Raumforderungen im Kopf-Hals-Bereich. HNO 72, 76–82 (2024). https://doi.org/10.1007/s00106-023-01385-9</p>
+              <p class="card-text">Scherl, C., Otto, M., Ghanem, I., <strong>Moviglia, J.</strong>, Sadi, F., Gnilka, T., Rotter, N., Zaubitzer, L., Stallkamp, J. Entwicklung und Evaluation einer Ultraschallnavigation für Freihandbiopsien kleiner Raumforderungen im Kopf-Hals-Bereich. HNO 72, 76–82 (2024). https://doi.org/10.1007/s00106-023-01385-9</p>
               <p class="card-text">The study aimed to develop and evaluate a new ultrasound‑controlled navigation system for free‑hand biopsies of small target structures in the head and neck area. The authors constructed a neck phantom with sonographically detectable masses and used a deep neural network for automatic segmentation. Using an individually designed tracking tool attached to the ultrasound scanner, they recorded the positions of the ultrasound device, target masses, and biopsy needle in a world coordinate system. In most tests, the system successfully guided the needle to the target with an average deviation of about 2.5 mm, and auditory feedback was used to assist navigation. The approach offers advantages over conventional navigation systems, including real‑time automatic registration without preoperative imaging, maintenance of the surgeon’s optical axis, and hands‑free operation during biopsy.</p>
               <p><strong>Contribution:</strong> development of the experimental setup; Intercommunication between the ultrasound and the optical tracking system with the control and processing system.</p>
               <p>
@@ -169,7 +201,7 @@ My interests include machine learning, applied mathematics, computer vision, and
           <div class="col-md-8">
             <div class="card-body">
               <h4 class="card-title">A semi-automated robotic system for percutaneous interventions</h4>
-              <p class="card-text"Siegfarth, M., Lutz, R., Iseke, N.-C., <strong>Moviglia, J.</strong>, Sadi, F., Stallkamp, J. A semi-automated robotic system for percutaneous interventions. Int J CARS 18, 1571–1575 (2023). https://doi.org/10.1007/s11548-023-02882-6</p>
+              <p class="card-text">Siegfarth, M., Lutz, R., Iseke, N.-C., <strong>Moviglia, J.</strong>, Sadi, F., Stallkamp, J. A semi-automated robotic system for percutaneous interventions. Int J CARS 18, 1571–1575 (2023). https://doi.org/10.1007/s11548-023-02882-6</p>
               <p class="card-text">The paper presents a hybrid semi‑automated robotic assistive device designed to support needle‑based percutaneous interventions within the limited space of a CT scanner gantry. The system combines manual rough positioning with robotic fine positioning and an optical tracking unit for needle guidance, using open‑source software including ROS2, MoveIt2, and 3D Slicer. Initial tests with a clinical CT scanner showed that the system’s hardware and software components could communicate and operate as intended; needle placements exhibited deviations primarily due to encoder inaccuracies, while the optical tracker yielded a mean positioning deviation of about 3.9 mm. The first validation confirmed feasibility, and future integration of automatic position correction using optical tracking is expected to improve accuracy significantly.</p>
               <p><strong>Contribution:</strong> Development of the multi-stereo optical tracking system, integration of 3D Slicer into ROS as the navigation system platform, and collaboration on the robot’s software architecture.</p>
               <p>
