@@ -496,6 +496,7 @@ You can find all my publications in:
               <div class="mb-0">
                 <span class="badge badge-pill badge-primary mr-1 mb-1">Electronics</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">PCB Design</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Altium Designer</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">FPGA</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">VHDL</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Matlab</span>
