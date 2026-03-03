@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+description: Personal website of Javier Moviglia, PhD Candidate in Medical Technology at Heidelberg University.
 subtitle: PhD Candidate in Medical Technology | Bridging Research and Healthcare Innovation
 
 profile:
@@ -50,6 +51,12 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
 
 - Email: [Javier.Moviglia@medma.uni-heidelberg.de](mailto:Javier.Moviglia@medma.uni-heidelberg.de)
 - LinkedIn: [linkedin.com/in/javiermoviglia](https://www.linkedin.com/in/javiermoviglia)
+
+You can find all my publications in:
+
+- [Google Scholar](https://scholar.google.com/citations?user=wNXUnLwAAAAJ)
+- [ORCID](https://orcid.org/0000-0002-3939-5893)
+
 
 <h2 id="projects" style="margin-top: 3.25rem">Projects</h2>
 
@@ -108,11 +115,11 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
                 <span class="badge badge-pill badge-primary mr-1 mb-1">C++</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">Optics</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Computer Vision</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">ROS</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Docker</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Surgical Navigation</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Optical tracking</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">3D Printing</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-danger mr-1 mb-1">Docker</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">Surgical Navigation</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Optical tracking</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">3D Printing</span>
               </div>
             </div>
           </div>
@@ -139,11 +146,11 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
                 <span class="badge badge-pill badge-primary mr-1 mb-1">C++</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">Optics</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Computer Vision</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">ROS</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Docker</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Surgical Navigation</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Optical tracking</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">3D Printing</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-danger mr-1 mb-1">Docker</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">Surgical Navigation</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Optical tracking</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">3D Printing</span>
               </div>
             </div>
           </div>
@@ -171,11 +178,11 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
                 <span class="badge badge-pill badge-primary mr-1 mb-1">Monocular camera</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">3D Scanner</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">ToF camera</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">ROS</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Optics</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Surgical navigation</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Surface registration</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Optical tracking</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-danger mr-1 mb-1">Optics</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">Surgical navigation</span>
+                <span class="badge badge-pill badge-danger mr-1 mb-1">Surface registration</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Optical tracking</span>
               </div>
             </div>
           </div>
@@ -201,10 +208,10 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
               </p>
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Python</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Ultrasound</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">ROS</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Optical tracking</span>
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Python</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">Ultrasound</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Optical tracking</span>
               </div>
             </div>
           </div>
@@ -230,10 +237,10 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
               </p>
               <p class="mb-1"><strong>Tech stack</strong></p>
               <div class="mb-0">
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Python</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">3D Slicer</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">ROS</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Optical tracking</span>
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Python</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">3D Slicer</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Optical tracking</span>
               </div>
             </div>
           </div>
@@ -270,7 +277,7 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
                 <span class="badge badge-pill badge-primary mr-1 mb-1">Matlab</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">Embedded Systems</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Control</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">CAD</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">CAD</span>
               </div>
             </div>
           </div>
@@ -306,9 +313,9 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
               <div class="mb-0">
                 <span class="badge badge-pill badge-primary mr-1 mb-1">Python</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">Embedded Systems</span>
-                <span class="badge badge-pill badge-info mr-1 mb-1">Control</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Control</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">ROS</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">CAD</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">CAD</span>
               </div>
             </div>
           </div>
@@ -336,8 +343,8 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
                 <span class="badge badge-pill badge-primary mr-1 mb-1">Python</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">ROS</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Fiber optic</span>
-                <span class="badge badge-pill badge-secondary mr-1 mb-1">Haptic Feedback</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Embedded Systems</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">Haptic Feedback</span>
+                <span class="badge badge-pill badge-danger mr-1 mb-1">Embedded Systems</span>
               </div>
             </div>
           </div>
@@ -380,7 +387,7 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
                 <span class="badge badge-pill badge-primary mr-1 mb-1">Robotic</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">ROS</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Navigation</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Software architecture</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">Software architecture</span>
               </div>
             </div>
           </div>
@@ -416,8 +423,8 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
                 <span class="badge badge-pill badge-primary mr-1 mb-1">Management</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">Robotic</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Computer vision</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Navigation</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Pick and Place</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">Navigation</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">Pick and Place</span>
               </div>
             </div>
           </div>
@@ -455,8 +462,8 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
                 <span class="badge badge-pill badge-primary mr-1 mb-1">C#</span>
                 <span class="badge badge-pill badge-info mr-1 mb-1">Qt</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Medical Simulator</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Unity 3D</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">git</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">Unity 3D</span>
+                <span class="badge badge-pill badge-danger mr-1 mb-1">git</span>
               </div>
             </div>
           </div>
@@ -492,8 +499,8 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">FPGA</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">VHDL</span>
                 <span class="badge badge-pill badge-secondary mr-1 mb-1">Matlab</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">AI</span>
-                <span class="badge badge-pill badge-dark mr-1 mb-1">Simulation</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">AI</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">Simulation</span>
               </div>
             </div>
           </div>
