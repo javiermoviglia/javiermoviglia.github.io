@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-25'
 papers:
   wNXUnLwAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -9,6 +9,18 @@ papers:
     citations: 0
     title: "Ordenamiento \xF3ptimo de las fases de un convertidor multif\xE1sico de potencia mediante FPGA"
     year: '2020'
+  wNXUnLwAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: "Softwareentwicklung des Personen-Transfer Roboter-Assistenten (PeTRA) zur Unterst\xFCtzung von Pflegekr\xE4ften"
+    year: '2022'
+  wNXUnLwAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Automated registration for interventional robotic systems
+    year: '2023'
+  wNXUnLwAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: Proof of concept of a novel tracking system with a monocular camera for image-guided surgery navigation
+    year: '2024'
   wNXUnLwAAAAJ:d1gkVwhDpl0C:
     citations: 5
     title: A semi-automated robotic system for percutaneous interventions
@@ -21,3 +33,7 @@ papers:
     citations: 0
     title: Monocular Near-Infrared Optical Tracking with Retroreflective Fiducial Markers for High-Accuracy Image-Guided Surgery
     year: '2026'
+  wNXUnLwAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: FBG-Based Distal Force Sensor to Improve Remote Catheter Procedures
+    year: '2025'
