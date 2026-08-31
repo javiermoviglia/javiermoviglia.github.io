@@ -97,6 +97,38 @@ You can find all my publications in:
 
 <div class="projects">
   <div class="row row-cols-1">
+
+    <div class="col mb-4">
+      <div class="card h-100 hoverable">
+        <div class="row no-gutters align-items-stretch">
+          <div class="col-md-4">
+            <img src="/assets/img/ijcars_ct_mri_navigation.png" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="CT and MRI navigation workflow" loading="lazy">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title">Implementation of monocular near-infrared camera tracking in MRI and CT navigation systems</h4>
+              <p class="card-text"><strong>Moviglia, J.</strong>, Kuntz, L., Kehrein, F., Herrmann, U. F., Stallkamp, J., &amp; Siegfarth, M. (2026). Implementation of monocular near-infrared camera tracking in MRI and CT navigation systems. International Journal of Computer Assisted Radiology and Surgery. https://doi.org/10.1007/s11548-026-03758-1</p>
+              <p class="card-text">This work presents the implementation of a monocular near-infrared optical tracking system for image-guided needle navigation in both CT and MRI environments. The workflow integrates patient-to-image registration, real-time tracking of reference and needle markers, and navigation visualization in 3D Slicer. Phantom experiments demonstrated the feasibility of the approach in both modalities, highlighting its potential as a low-cost, accurate, and MRI-compatible navigation solution.</p>
+              <p>
+                <a class="btn btn-sm btn-outline-primary" href="https://link.springer.com/article/10.1007/s11548-026-03758-1" target="_blank" rel="noopener noreferrer">Paper</a>
+              </p>
+              <p class="mb-1"><strong>Tech stack</strong></p>
+              <div class="mb-0">
+                <span class="badge badge-pill badge-primary mr-1 mb-1">C++</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Optics</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Computer Vision</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">ROS</span>
+                <span class="badge badge-pill badge-danger mr-1 mb-1">MRI</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">CT</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">3D Slicer</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">Optical tracking</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="col mb-4">
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
