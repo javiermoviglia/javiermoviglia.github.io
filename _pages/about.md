@@ -45,6 +45,7 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
 <strong>Teaching</strong>
 
 - Medical Physics (SS 2025, SS 2024). Medical Faculty Mannheim. Academic collaborator. Topics: Optics and radioactivity
+- Mechatronics (SS 2026). Medical Faculty Mannheim. Academic collaborator. Topics: Electronics
 - Supervision of various academic works (Master's theses, Bachelor's theses, internships and research). See projects for more details
 
 <h2 id="contact" style="margin-top: 2rem">Contact</h2>
