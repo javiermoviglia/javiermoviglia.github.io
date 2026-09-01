@@ -287,33 +287,72 @@ You can find all my publications in:
 </div>
 
 <h3 id="portfolio-flycad">FlyCAD</h3>
-<p>Comming soon</p>
+
 <p><strong>Time period worked on the project:</strong> 02.2025 - 09.2025</p>
+
 <p><strong>Place:</strong> Mannheim Institute for Intelligent Systems in Medicine (MIISM) at Medical Faculty Mannheim, Heidelberg University, Germany</p>
+
+<p>FlyCAD ("Flying Catheter Drive") is a robotic catheter-drive concept for endovascular interventions. The system was designed to enable catheter advancement and guidewire manipulation while simplifying sterility management through a reusable robotic platform and a disposable catheter-contacting cartridge. A key concept of the system is the use of magnetic actuation to transmit motion across a sealed sterile barrier without direct mechanical contact between the reusable drive components and the catheter.</p>
+
+<p><strong>Activities:</strong> Co-supervision of the project together with Prof. Jan Stallkamp. The project was carried out by Lucas Sianca and included the development of the robotic prototype, magnetic actuation mechanism, disposable cartridge concept, control system, and functional evaluation in vascular phantoms.</p>
+
 <div class="projects">
   <div class="row row-cols-1">
     <div class="col mb-4">
       <div class="card h-100 hoverable">
         <div class="row no-gutters align-items-stretch">
+
           <div class="col-md-4">
-            <img src="https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=900&q=80" class="img-fluid w-100 border rounded p-2" style="aspect-ratio: 1 / 1; object-fit: contain" alt="FlyCAD project" loading="lazy">
+            <img src="/assets/img/flycad_prototype.png"
+                 class="img-fluid w-100 border rounded p-2"
+                 style="aspect-ratio: 1 / 1; object-fit: contain"
+                 alt="FlyCaD prototype"
+                 loading="lazy">
           </div>
+
           <div class="col-md-8">
             <div class="card-body">
-              <h4 class="card-title">FlyCAD ("Flying Catheter Drive")</h4>
-              <p class="card-text">Comming soon.</p>
-              <p>
-                <a class="btn btn-sm btn-outline-primary" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer">Paper</a>
+
+              <h4 class="card-title">Contactless robotic system for linear catheter advancement using magnetic actuation</h4>
+
+              <p class="card-text">
+                Sianca, L. P., Stallkamp, J., &amp; <strong>Moviglia, J.</strong> (2026).
+                Contactless robotic system for linear catheter advancement using magnetic actuation.
+                <em>International Journal of Computer Assisted Radiology and Surgery</em>.
+                https://doi.org/10.1007/s11548-026-03751-8
               </p>
+
+              <p class="card-text">
+                This work presents FlyCaD, an early-stage robotic catheter-drive prototype that uses magnetic actuation to transmit torque across a sealed sterile barrier. The system combines a reusable base module, a levitating dynamic module, and a disposable cartridge as the only catheter-contacting component. Functional evaluation in vascular phantoms demonstrated successful catheter insertion-retraction, guidewire-catheter manipulation, and branch-selection tasks, supporting the feasibility of the concept for sterile robotic catheter handling.
+              </p>
+
+              <p>
+                <strong>Contribution:</strong> Co-supervision of the project together with Prof. Jan Stallkamp. The project was carried out by Lucas Sianca.
+              </p>
+
+              <p>
+                <a class="btn btn-sm btn-outline-primary"
+                   href="https://link.springer.com/article/10.1007/s11548-026-03751-8"
+                   target="_blank"
+                   rel="noopener noreferrer">Paper</a>
+              </p>
+
               <p class="mb-1"><strong>Tech stack</strong></p>
+
               <div class="mb-0">
-                <span class="badge badge-pill badge-primary mr-1 mb-1">Matlab</span>
-                <span class="badge badge-pill badge-info mr-1 mb-1">Embedded Systems</span>
-                <span class="badge badge-pill badge-secondary mr-1 mb-1">Control</span>
-                <span class="badge badge-pill badge-warning mr-1 mb-1">CAD</span>
+                <span class="badge badge-pill badge-primary mr-1 mb-1">Robotics</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">Medical Devices</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Magnetic Actuation</span>
+                <span class="badge badge-pill badge-success mr-1 mb-1">Embedded Systems</span>
+                <span class="badge badge-pill badge-danger mr-1 mb-1">MATLAB</span>
+                <span class="badge badge-pill badge-warning mr-1 mb-1">Control</span>
+                <span class="badge badge-pill badge-info mr-1 mb-1">CAD</span>
+                <span class="badge badge-pill badge-secondary mr-1 mb-1">Catheter Manipulation</span>
               </div>
+
             </div>
           </div>
+
         </div>
       </div>
     </div>
