@@ -48,6 +48,13 @@ C++, Python, ROS/ROS2, Optical Tracking, 3D Slicer, Embedded Systems, CAD, MATLA
 - Mechatronics (SS 2026). Medical Faculty Mannheim. Academic collaborator. Topics: Electronics
 - Supervision of various academic works (Master's theses, Bachelor's theses, internships and research). See projects for more details
 
+<strong>Honors and Awards</strong>
+
+- Poster Presentation Award - 29th Annual Conference of the International Society for Computer Aided Surgery (ISCAS), Nagoya University, Japan (Jul 2026)
+- Top Graduate in Electronic Engineering, with the highest GPA in the program, December 2019 - November 2020. National University of Mar del Plata - Faculty of Engineering (Nov 2020)
+- Top Graduate of the Faculty of Engineering, with the highest GPA in the faculty, December 2019 - November 2020. National University of Mar del Plata - Faculty of Engineering (Nov 2020)
+- Scholarship ALEARG 18/19 - DAAD (Deutscher Akademischer Austauschdienst) and Ministerio de Educación de la República Argentina (Jan 2018). Scholarship for engineering students from Argentina to carry out an academic research project at a German university and an internship at a German company, including a B2-level German course.
+
 <h2 id="contact" style="margin-top: 2rem">Contact</h2>
 
 - Email: [Javier.Moviglia@medma.uni-heidelberg.de](mailto:Javier.Moviglia@medma.uni-heidelberg.de)
