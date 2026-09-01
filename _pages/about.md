@@ -7,7 +7,7 @@ subtitle: PhD Candidate in Medical Technology | Bridging Research and Healthcare
 
 profile:
   align: right
-  image: mi_foto.png
+  image: mi_foto-modified.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
